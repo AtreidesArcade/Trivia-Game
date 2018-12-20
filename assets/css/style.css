@@ -1,5 +1,5 @@
 body{
-	background-image: url('/Users/lukefuller/CodingBootCamp/Trivia-Game/assets/images/Cool-Star-Wars-Wallpapers.jpg');
+  background-image: url('../images/Cool-Star-Wars-Wallpapers.jpg');
     text-align: center;
 }
 
