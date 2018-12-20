@@ -1,0 +1,18 @@
+body{
+	background-image: url('/Users/lukefuller/CodingBootCamp/Trivia-Game/assets/images/Cool-Star-Wars-Wallpapers.jpg');
+    text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+.container{
+    width: 500px;
+}
